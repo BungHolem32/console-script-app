@@ -1,6 +1,7 @@
 {
-    "name": "kenshoo/socket",
-    "require": {
+    "name": "ilan-vachtel/console-script-app",
+  "license": "",
+  "require": {
       "ext-sockets": "*",
       "ext-curl": "*",
       "ext-dom": "*"

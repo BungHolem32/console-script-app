@@ -1,6 +1,6 @@
-# console-script-app
+# Console-Script-App
 
-Kensoo Home Assignment 
+**Kensoo Home Assignment** 
 
 Build Console Script App 
 1. create a socket server on PHP, listening to port 1111.
@@ -12,12 +12,12 @@ client, and receive a menu with next function items:
 (URL strings)
 4. Exit
 
-Instructions: 
-1. clone repository
-2.open terminal.
-3. cd into the cloned folder.
-4. type: composer install. 
-5.enter example folder.
-6. type: ''php app.php"
-7. enter another terminal window and type "telnet 127.0.0.1 1111"
-8. follow menu introduction
+**Instructions:** 
+1. clone repository https://github.com/BungHolem32/console-script-app.git
+2. open terminal.
+3. cd into the cloned folder -> cd projectName
+4. type -> composer install. 
+5. cd into example folder -> cd example
+6. type -> php app.php
+7. enter another terminal window and type -> telnet 127.0.0.1 1111
+8. follow menu introduction.
