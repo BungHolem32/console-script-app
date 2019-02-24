@@ -1,0 +1,13 @@
+{
+    "name": "kenshoo/socket",
+    "require": {
+      "ext-sockets": "*",
+      "ext-curl": "*",
+      "ext-dom": "*"
+    },
+    "autoload": {
+      "psr-4": {
+        "src\\" : "src/"
+      }
+    }
+}
